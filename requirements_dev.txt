@@ -1,6 +1,6 @@
 numpy>=1.22
 pandas>=1.4
-torch>=1.2
+torch>=2.10.0
 tqdm>=4.64
 
 # Documentation
@@ -17,5 +17,5 @@ pytest==7.1.2
 # Deployement
 pip==23.3.1
 bumpversion==0.6
-wheel==0.38.2
+wheel==0.46.2
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
