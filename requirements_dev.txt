@@ -19,3 +19,4 @@ pip==23.3.1
 bumpversion==0.6
 wheel==0.38.2
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
